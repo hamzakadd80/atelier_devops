@@ -3,7 +3,7 @@ name: test_myself
 on:
   push:
     branches:
-      - mainljs
+      - main
 
 jobs:
   build_docker:
